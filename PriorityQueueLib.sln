@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueueLib", "PriorityQueueLib\PriorityQueueLib.csproj", "{6758B115-E92B-4301-BC61-E7DD5A42EC20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueueLib.Tests", "PriorityQueueLib.Tests\PriorityQueueLib.Tests.csproj", "{8B3C5693-0925-43C6-B52E-8978DCD177C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6758B115-E92B-4301-BC61-E7DD5A42EC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6758B115-E92B-4301-BC61-E7DD5A42EC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6758B115-E92B-4301-BC61-E7DD5A42EC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6758B115-E92B-4301-BC61-E7DD5A42EC20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3C5693-0925-43C6-B52E-8978DCD177C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3C5693-0925-43C6-B52E-8978DCD177C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3C5693-0925-43C6-B52E-8978DCD177C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3C5693-0925-43C6-B52E-8978DCD177C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {448DCD0C-78FD-4D14-B900-F513F7DCF26E}
+	EndGlobalSection
+EndGlobal
